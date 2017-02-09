@@ -1,7 +1,7 @@
 package com.codebind;
-//commit to Maven by Rahul in branch Rahul
+//test
 public class App {
-	//commit to Maven by Abdul in Rahul branch
+	
 	public String sample()
 	{
 		return "sample";
